@@ -90,3 +90,5 @@ DOWNLOAD_DELAY = 0.5
 #HTTPCACHE_STORAGE = 'scrapy.extensions.httpcache.FilesystemCacheStorage'
 
 HTTPPROXY_PROXY_LIST_FILE = 'proxy_list.json'
+
+RANDOM_UA_TYPE = 'random'
